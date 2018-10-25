@@ -1,0 +1,3 @@
+[submodule "ext/iris-distro"]
+	path = ext/iris-distro
+	url = https://github.com/arjavdesai/iris-distro
